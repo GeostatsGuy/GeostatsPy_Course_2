@@ -29,9 +29,9 @@ ___
 
 I have included in this repository all of the course content:
 
-1. the lectures as PDFs in the [Lectures](https://github.com/GeostatsGuy/GeostatsPy_Intro_Course/tree/master/Lectures) folder
+1. the lectures as PDFs in the [Lectures](https://github.com/GeostatsGuy/GeostatsPy_Course_2/tree/master/Lectures) folder
 
-2. the well-documented and interactive demonstration workflows in Python in the [Workflows](https://github.com/GeostatsGuy/GeostatsPy_Intro_Course/tree/master/Workflows) folder
+2. the well-documented and interactive demonstration workflows in Python in the [Workflows](https://github.com/GeostatsGuy/GeostatsPy_Course_2/tree/master/Workflows) folder
 
 3. datasets required for the workflows in the [Datasets](https://github.com/GeostatsGuy/GeostatsPy_Course_2/tree/master/DataSets) folder
 
@@ -71,7 +71,7 @@ import geostatspy.geostats as geostats
 
 For more information about about the GeostatsPy package check out the [documentation](https://github.com/GeostatsGuy/GeostatsPy) and [code](https://github.com/GeostatsGuy/GeostatsPy/tree/master/geostatspy). 
 
-You will need to copy these data files to your working directory.  They are available in the [DataSets](https://github.com/GeostatsGuy/GeostatsPy_Intro_Course/tree/master/DataSets) folder of this repository:
+You will need to copy these data files to your working directory.  They are available in the [DataSets](https://github.com/GeostatsGuy/GeostatsPy_Course_2/tree/master/DataSets) folder of this repository:
 
 * [sample_data_MV_biased,csv](https://github.com/GeostatsGuy/GeostatsPy_Intro_Course/blob/master/DataSets/sample_data_MV_biased.csv)
 
