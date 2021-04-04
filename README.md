@@ -12,8 +12,6 @@ This course provides an introduction to GeostatsPy, an open source Python packag
 
 ___
 
-___
-
 Tutorial Originally Conducted at TRANSFORM 2021
 
 For more information visit [TRANSFORM](https://softwareunderground.org/events/transform-2021).
