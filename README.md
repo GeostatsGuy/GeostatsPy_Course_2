@@ -48,7 +48,7 @@ You will gain:
 The short course is broken up into 5 sections, including:
 
 0. **Introduction**: objectives, plan
-1. **Spatial Data Declustering**: quantifying spatial continuity for unbiased uncertainty models
+1. **Spatial Data Declustering**: mitigating spatial sampling bias for unbiased uncertainty models
 2. **Spatial Simulation**: calculating spatial simulation realizations to explore uncertainty
 3. **Spatial Simulation PostSIM**: summarizing uncertainty models over multiple realizations
 4. **Conclusions**: summary and feedback
