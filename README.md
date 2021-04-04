@@ -12,6 +12,14 @@ This course provides an introduction to GeostatsPy, an open source Python packag
 
 ___
 
+___
+
+Tutorial Originally Conducted at TRANSFORM 2021
+
+For more information visit [TRANSFORM](https://softwareunderground.org/events/transform-2021).
+
+___
+
 **Before Attending the Course Please Install the Following**:
  
 1. Anaconda 3.* (Python < 3.9)
