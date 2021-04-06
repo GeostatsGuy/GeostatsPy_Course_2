@@ -8,7 +8,7 @@
 
 ___
 
-This course provides an introduction to GeostatsPy, an open source Python package for Uncertainty Modeling with Spatial / Subsurface Data Analytics and Geostatistics, with fundamental spatial data analytics concepts in lectures followed by interactive demonstrations/exercises and more complete example well-documented worklfows.
+This course provides an introduction to GeostatsPy (an open source spatial data analytics and geostatistics) Python package for building Uncertainty Modeling workflows. We cover fundamental spatial data analytics concepts in lectures followed by interactive hands-on demonstrations/exercises and more complete example, well-documented workflow walk-throughs.
 
 ___
 
